@@ -44,7 +44,7 @@ activities = {
         "description": "Create and display artwork in the school gallery",
         "schedule": "Fridays, 3:30 PM - 5:00 PM",
         "max_participants": 15,
-        "participants": ["isabella@mergington.edu", " Charlotte@mergington.edu"]
+        "participants": ["isabella@mergington.edu", "charlotte@mergington.edu"]
     },
     "Debate Team": {
         "description": "Participate in debate competitions and discussions",
@@ -54,7 +54,9 @@ activities = {
     },
     "Science Club": {
         "description": "Conduct experiments and explore scientific concepts",
-        "schedule":
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 15,
+        "participants": ["noah@mergington.edu", "william@mergington.edu"]
     },
     "Programming Class": {
         "description": "Learn programming fundamentals and build software projects",
